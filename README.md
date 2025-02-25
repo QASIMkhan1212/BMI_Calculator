@@ -1,2 +1,2 @@
-# Streamlit_Project
-This is my first Streamlit project of a BMI Calculator
+# Streamlit_Projects
+These are all  my streamlit projetcts made by pure python and different libraries
